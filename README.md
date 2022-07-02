@@ -1,3 +1,3 @@
-# Airline Satisfication Project
+# Airline Satisfaction Project
 ## Contributors:
 - ### Louis Sungwoo Cho
