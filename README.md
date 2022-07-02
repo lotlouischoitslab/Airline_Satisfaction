@@ -2,4 +2,4 @@
 ## Contributors:
 - ### Louis Sungwoo Cho
 # Project Description
-![title](img/a350.png)
+![Alt text](img/a350.png)
