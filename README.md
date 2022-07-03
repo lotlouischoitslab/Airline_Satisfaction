@@ -9,3 +9,4 @@ This project is about analyzing and predicting airline satisfaction patterns amo
 - https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 
 # Motivation 
+Air travel is crucial for business trips and to travel around the world. 
