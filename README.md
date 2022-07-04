@@ -14,4 +14,4 @@ The brand new Incheon International Airport Terminal 2 (인천국제공항 제2�
 - ##### Image source: https://www.cntraveler.com/story/just-in-time-for-olympics-seouls-incheon-airport-unveils-new-terminal
 
 # Motivation 
-Air travel is crucial for business trips and to travel around the world. 
+Air travel is a crucial type of mobility amongst people who are traveling from one place to another. Air transportation also enables economic growth and development for countries. As an aviation lover myself, I was also curious about the satisfaction of our airline and airport service. 
