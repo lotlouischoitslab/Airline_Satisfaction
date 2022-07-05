@@ -21,4 +21,14 @@ Air travel is a crucial type of mobility amongst people who are traveling from o
 ![title](img/data.png)
 #### Figure 1. above shows the first few dataset of airline satisfaction categorized into passenger types. 
 
+![title](img/gender.png)
+#### Figure 2. above shows the air travel satisfactory level between male and female passengers. 
 
+![title](img/loyal.png)
+#### Figure 3. above shows the air travel satisfactory level between loyal and disloyal passengers. 
+
+![title](img/travel_type.png)
+#### Figure 4. above shows the air travel satisfactory level among passenger travel types. 
+
+![title](img/class.png)
+#### Figure 5. above shows the air travel satisfactory level among airline seat classes. 
