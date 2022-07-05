@@ -20,4 +20,4 @@ Air travel is a crucial type of mobility amongst people who are traveling from o
 
 ![title](img/data.png)
 
-### Figure 1. above shows the first few dataset of airline satisfaction categorized into passenger types. 
+#### Figure 1. above shows the first few dataset of airline satisfaction categorized into passenger types. 
