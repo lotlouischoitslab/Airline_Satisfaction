@@ -17,6 +17,7 @@ The brand new Incheon International Airport Terminal 2 (인천국제공항 제2�
 Air travel is a crucial type of mobility amongst people who are traveling from one place to another. Air transportation also enables economic growth and development for countries. I was very lucky to use Incheon International Airport to travel around the world because ICN is one of the best airports in the world. Due to severe congestions on roadways, I have also been recently very interested about air transportation and how we could make ways to improve the quality and service of air mobility. As an aviation enthusiast myself, I was also curious about the satisfaction of our airline and airport service. To achieve my goal, I decided to get some air travel datasets and perform experimental data analysis and prediction to analyze and predict the passengers' satisfaction trends of air travel service. 
 
 # Data Visualization
+The dataset of airline satisfaction among passengers were then further broken down into specific groups for data visualization. The grouped data were then plotted using histograms to compare and contrast the airline satisfaction and disfaction between members of the particular group. 
 
 ![title](img/data.png)
 #### Figure 1. above shows the first few dataset of airline satisfaction categorized into passenger types. 
@@ -32,3 +33,9 @@ Air travel is a crucial type of mobility amongst people who are traveling from o
 
 ![title](img/class.png)
 #### Figure 5. above shows the air travel satisfactory level among airline seat classes. 
+
+# Outliers Removal Process
+
+# Machine Learning Dataset Training
+
+# Conclusive Remarks
