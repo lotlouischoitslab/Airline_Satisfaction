@@ -6,7 +6,7 @@
 This project is about analyzing and predicting airline satisfaction patterns among many air travelers. The dataset used for this project was acquired from Kaggle which can be found here:
 - https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 
-### An Airbus A350 flies in the blue sky.
+### An Airbus A350 aircraft flies in the blue sky.
 ![title](img/a350.png)
 
 - ##### Image source: https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft/a350-family
