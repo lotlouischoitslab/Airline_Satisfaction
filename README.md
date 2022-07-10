@@ -74,7 +74,7 @@ Being able to understand "dependent" and "independent" variables. Regression is 
 Once all the supervised learning algorithms performed their dataset training, a dataframe was created to store the accuracy score, precision score, recall score, f1-score with respect to their training model. Then for each supervised learning algorithm, all 4 scores were plotted in a bar graph to determine which model has the most accurate dataset training performance.
 
 ![title](img/aml_plot.png)
-#### Figure 9. above shows the histogram graph for each machine learning training algorithm performance. It is determined that the Decision Tree is the most optimal model for this dataset.
+##### Figure 9. above shows the histogram graph for each machine learning training algorithm performance. It is determined that the Decision Tree is the most optimal model for this dataset.
 
 ## Unsupervised Learning
 Unspuervised Learning is a machine learning approach that analyzes and clusters unlabeled datasets. The hidden patterns are discovered without any human iteraction. The following algorithms were used to perform clustering analysis on dataset training:
