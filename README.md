@@ -87,7 +87,7 @@ Once all the supervised learning algorithms performed their dataset training, a 
 According to our graph plot of each model above, it is determined that the Decision Tree is the most optimal model for this dataset. To analyze the decision tree algorithm in more depth, the feature importance was plotted with respect to each of their categories. Feature Importance is computed using the decrease impurity for each category across all the trees. Higher the value, higher the importance of that specific feature in the dataset.
 
 ![title](img/dt_detail.png)
-### Figure 11. above shows the histogram graph for each feature importance for the decision tree model.
+#### Figure 11. above shows the histogram graph for each feature importance for the decision tree model.
 
 ## Unsupervised Learning
 Unspuervised Learning is a machine learning approach that analyzes and clusters unlabeled datasets. The hidden patterns are discovered without any human iteraction. The following algorithms were used to perform clustering analysis on dataset training:
