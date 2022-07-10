@@ -105,4 +105,7 @@ First the optimal k value was computed by using the 'Elbow Method.' All the data
 
 Once all the k values for that specific range has been trained, the function to determine the most optimal k was called given the distortion list containing the model inertia value. The tolerance value of 0.2 was given and if the relative error was greater than the tolerance value, the k is incremented. Acoording to the function, 5 is the most optimal value for this unsupervised learning model. 
 
+![title](img/optimal_kmeans.png)
+### Figure 14. above shows the clustering values between passengers' age and flight distance.
+
 # Conclusive Remarks
