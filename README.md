@@ -39,8 +39,12 @@ Exploratory data anlysis were performed on the airline satisfaction among passen
 ![title](img/class.png)
 #### Figure 6. above shows the air travel satisfactory level among airline seat classes. 
 
-# Outliers Removal Process
+# Dataset Preparation
+Before training the entire dataset for machine learning training, the dataset had to be cleaned and changed into numeric form. The data types were classified into binary and non-binary types. Once all the dataset were preprocessed, binary datasets such as gender were given either a value of 0 or 1 according to their respective gender types (i.e Male or Female). Non-binary datasets had to be separated into separate columns and then given a default value of either 0 or 1.
 
-# Machine Learning Dataset Training
+![title](img/cleaned_dataset.png)
+#### Figure 7. above shows the cleaned dataset applied for the machine learning models. 
+
+# Machine Learning 
 
 # Conclusive Remarks
