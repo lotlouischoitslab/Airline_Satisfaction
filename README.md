@@ -90,5 +90,6 @@ According to our graph plot of each model above, it is determined that the Decis
 Unspuervised Learning is a machine learning approach that analyzes and clusters unlabeled datasets. The hidden patterns are discovered without any human iteraction. The following algorithms were used to perform clustering analysis on dataset training:
 
 - ##### KMeans Clustering
+- ##### Principal Component Analysis (PCA)
 
 # Conclusive Remarks
