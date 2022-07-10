@@ -39,11 +39,16 @@ Exploratory data anlysis were performed on the airline satisfaction among passen
 ![title](img/class.png)
 #### Figure 6. above shows the air travel satisfactory level among airline seat classes. 
 
+In addition to the histogram bar plots shown above in the figures, a correlation heatmap was also plotted. The correlation matrix was first computed to determine the correlation between each attribute in the dataframe. Once the correlation matrix values were calculated, using the seaborn library, the correlation heatmap was plotted. The heatmap is shown as a lower triangular 2d matrix.
+
+![title](img/heatmap.png)
+#### Figure 7. above shows the correlation matrix represented as a heatmap. 
+
 # Dataset Preparation
 Before training the entire dataset for machine learning training, the dataset had to be cleaned and changed into numeric form. The data types were classified into binary and non-binary types. Once all the dataset were preprocessed, binary datasets such as gender were given either a value of 0 or 1 according to their respective gender types (i.e Male or Female). Non-binary datasets had to be separated into separate columns and then given a default value of either 0 or 1.
 
 ![title](img/cleaned_dataset.png)
-#### Figure 7. above shows the cleaned dataset applied for the machine learning models. 
+#### Figure 8. above shows the cleaned dataset applied for the machine learning models. 
 
 # Machine Learning 
 
