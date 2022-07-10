@@ -52,4 +52,8 @@ Before training the entire dataset for machine learning training, the dataset ha
 
 # Machine Learning 
 
+## Supervised Learning
+
+## Unsupervised Learning
+
 # Conclusive Remarks
