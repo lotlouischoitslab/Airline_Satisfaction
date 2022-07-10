@@ -84,12 +84,22 @@ Once all the supervised learning algorithms performed their dataset training, a 
 ![title](img/aml_plot.png)
 ##### Figure 10. above shows the histogram graph for each machine learning training algorithm performance. 
 
-According to our graph plot of each model above, it is determined that the Decision Tree is the most optimal model for this dataset.
+According to our graph plot of each model above, it is determined that the Decision Tree is the most optimal model for this dataset. To analyze the decision tree algorithm in more depth, the feature importance was plotted with respect to each of their categories. Feature Importance is computed using the decrease impurity for each category across all the trees. Higher the value, higher the importance of that specific feature in the dataset.
+
+![title](img/dt_detail.png)
+##### Figure 11. above shows the histogram graph for each feature importance for the decision tree model.
 
 ## Unsupervised Learning
 Unspuervised Learning is a machine learning approach that analyzes and clusters unlabeled datasets. The hidden patterns are discovered without any human iteraction. The following algorithms were used to perform clustering analysis on dataset training:
 
 - ##### K-Means Clustering
 - ##### Principal Component Analysis (PCA)
+
+First the optimal k value was computed by using the 'Elbow Method.' All the datasets were trained for each value of k ranging from 2 to 10 and then for each time the model is trained, the inertial value of the model is appended to the distortion list. 
+
+![title](img/elbow.png)
+##### Figure 12. above shows the diagram of the Elbow Method.
+
+Once all the k values for that specific range has been trained, the function to determine the most optimal k was called given the distortion list containing the model inertia value. The tolerance value of 0.2 was given and if the relative error was greater than the tolerance value, the k is incremented. Acoording to the function, 5 is the most optimal value for this unsupervised learning model. 
 
 # Conclusive Remarks
