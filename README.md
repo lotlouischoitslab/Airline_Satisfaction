@@ -19,7 +19,7 @@ Air travel is a crucial type of mobility amongst people who are traveling from o
 
 - ##### Image source: https://www.koreanair.com/us/en/footer/about-us/newsroom/list/220609--korean-air-to-restore-long-haul-network-destinations-in-
 
-### Incheon International Airport Terminal 2 (인천국제공항 제2여객터미널) is shown below
+### Incheon International Airport Terminal 2 (인천국제공항 제2여객터미널) is shown below.
 ![title](img/incheon.png)
 - ##### Image source: https://www.cntraveler.com/story/just-in-time-for-olympics-seouls-incheon-airport-unveils-new-terminal
 
