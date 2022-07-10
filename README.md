@@ -56,13 +56,13 @@ Analyzing datasets and pattern recognition are crucial for predicting the accura
 ## Supervised Learning
 Supervised Learning is a machine learning approach which trains the given "labeled" datasets. The two main types of supervised learning this project uses are the following:
 
-- ### Classification: Being able to accurately assign the datasets into specific categories. The following algorithms were used to perform classification analysis on dataset training:
+- ##### Classification: Being able to accurately assign the datasets into specific categories. The following algorithms were used to perform classification analysis on dataset training:
 - ##### Decision Tree Classifier
 - ##### Random Forest Classifier
 - ##### K-Nearest Neighbors Classifier
 - ##### Gaussian Naive Bayes Classifier
 
-- ### Regression: Being able to understand "dependent" and "independent" variables. Regression is a very useful tool to predict numerical values for mathematical modeling between different data points along the graph. The following algorithms were used to perform regression analysis on dataset training:
+- ##### Regression: Being able to understand "dependent" and "independent" variables. Regression is a very useful tool to predict numerical values for mathematical modeling between different data points along the graph. The following algorithms were used to perform regression analysis on dataset training:
 - ##### Linear Regression
 - ##### Logistic Regression
 
