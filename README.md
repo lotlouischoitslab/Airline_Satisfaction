@@ -98,7 +98,7 @@ Unspuervised Learning is a machine learning approach that analyzes and clusters 
 First the optimal k value was computed by using the 'Elbow Method.' All the datasets were trained for each value of k ranging from 2 to 10 and then for each time the model is trained, the inertial value of the model is appended to the distortion list. 
 
 ![title](img/kmeans_training.png)
-#### Figure 12. above shows the k-means model training the dataset
+#### Figure 12. above shows the k-means model training the dataset.
 
 ![title](img/elbow.png)
 #### Figure 13. above shows the diagram of the Elbow Method.
@@ -115,3 +115,6 @@ After the K-Means Clustering was performed, the Principal Component Analysis (PC
 
 # Conclusive Remarks
 As we can see from the exploratory data analysis above, we can conclude that there is a significant difference between airline satisfaction level between categorized groups of air travelers. Notably, we can see that female passengers are more satisfied with the air travel than male passengers, loyal customers are more satisfied with the air travel than disloyal travelers, business travelers are more satisfied with air travel than personal travelers, and business class passengers having the highest satisfaction level of air travel. Out of all the supervised machine learning algorithms that has been covered in this project, the Decision Tree model has the highest performance along with Gaussian Naive Bayes model having the lowest performance in our given dataset. For the unsupervised learning algorithms, it has been determined using the Elbow Method that the most optimal value for k in our unsupervised learning model is approximately 5 meaning that the dataset can be classified to 5 different categories. Our PCA model shows that most of the clustered values are economy class passengers meaning that most of the passengers use economy class when traveling. Through machine learning and dataset training, we are able to analyze and understand the patterns between airline satisfaction among passengers. Air travel can be definitely tough due to tough security measures inside the terminal and various immigration laws between countries. It is important that our air transportation system not only be comfortable but also efficient to allow travelers to conveniently travel between places for smart mobility. 
+
+![title](img/incheon_robots.png)
+#### Incheon International Airport robots guiding passengers around the airport terminal.
