@@ -118,3 +118,4 @@ As we can see from the exploratory data analysis above, we can conclude that the
 
 ![title](img/incheon_robots.png)
 #### Incheon International Airport robots guiding passengers around the airport terminal.
+- ##### Image source: https://www.futuretravelexperience.com/2020/05/incheon-airport-presses-ahead-ai-biometrics-big-data/
