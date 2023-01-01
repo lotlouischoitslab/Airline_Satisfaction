@@ -1,5 +1,5 @@
 # Airline Satisfaction Analysis & Visualization
-## Contributors:
+## Contributors: 
 - ### Louis Sungwoo Cho
 # Project Description
 
