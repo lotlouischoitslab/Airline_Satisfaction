@@ -20,7 +20,7 @@ Air travel is a crucial type of mobility amongst people who are traveling from o
 
 #### Incheon International Airport Terminal 2 (인천국제공항 제2여객터미널) is shown below.
 ![title](img/incheon.png)
-- ##### Image source: [Seoul Incheon reveals new termina](https://www.cntraveler.com/story/just-in-time-for-olympics-seouls-incheon-airport-unveils-new-terminal)
+- ##### Image source: [Seoul Incheon reveals new terminal](https://www.cntraveler.com/story/just-in-time-for-olympics-seouls-incheon-airport-unveils-new-terminal)
 
 # Data Visualization
 Exploratory data anlysis were performed on the airline satisfaction among passengers. The dataset contains various information about the air travelers and indeed visualization is helpful to understand the satisfaction level. First the frequency type of air travelers were visualized and then groups were further broken down to analyze the pattern of airline satisfaction among the members of the particular group. The histograms below show the air travel satisfaction level among the grouped passengers.
@@ -102,7 +102,7 @@ First the optimal k value was computed by using the 'Elbow Method.' All the data
 ![title](img/elbow.png)
 #### Figure 13. above shows the diagram of the Elbow Method.
 
-Once all the k values for that specific range has been trained, the function to determine the most optimal k was called given the distortion list containing the model inertia value. The tolerance value of 0.2 was given and if the relative error was greater than the tolerance value, the k is incremented. Acoording to the function, 5 is the most optimal value for this unsupervised learning model. 
+Once all the k-values for that specific range has been trained, the function to determine the most optimal k was called given the distortion list containing the model inertia value. The tolerance value of 0.2 was given and if the relative error was greater than the tolerance value, the k is incremented. Acoording to the function, 5 is the most optimal value for this unsupervised learning model. 
 
 ![title](img/optimal_kmeans.png)
 #### Figure 14. above shows the clustering values between passengers' age and flight distance.
@@ -117,4 +117,4 @@ As we can see from the exploratory data analysis above, we can conclude that the
 
 ![title](img/incheon_robots.png)
 #### Incheon International Airport robots guiding passengers around the airport terminal.
-- ##### Image source: https://www.futuretravelexperience.com/2020/05/incheon-airport-presses-ahead-ai-biometrics-big-data/
+- ##### Image source: [Future Travel Experience](https://www.futuretravelexperience.com/2020/05/incheon-airport-presses-ahead-ai-biometrics-big-data/)
