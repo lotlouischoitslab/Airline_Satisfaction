@@ -3,7 +3,7 @@
 - ### Louis Sungwoo Cho
 # Project Description
 
-This project is about analyzing and predicting airline satisfaction patterns among many air travelers. The dataset used for this project was acquired from Kaggle which can be found here [Kaggle Airline Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
+This project is about analyzing and predicting airline satisfaction patterns among many air travelers. The dataset used for this project was acquired from Kaggle which can be found here: **[Kaggle Airline Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)**
 
 ### An Airbus A350 aircraft flies in the blue sky.
 ![title](img/a350.png)
@@ -20,7 +20,7 @@ Air travel is a crucial type of mobility amongst people who are traveling from o
 
 #### Incheon International Airport Terminal 2 (인천국제공항 제2여객터미널) is shown below.
 ![title](img/incheon.png)
-- ##### Image source: https://www.cntraveler.com/story/just-in-time-for-olympics-seouls-incheon-airport-unveils-new-terminal
+- ##### Image source: [Seoul Incheon reveals new termina](https://www.cntraveler.com/story/just-in-time-for-olympics-seouls-incheon-airport-unveils-new-terminal)
 
 # Data Visualization
 Exploratory data anlysis were performed on the airline satisfaction among passengers. The dataset contains various information about the air travelers and indeed visualization is helpful to understand the satisfaction level. First the frequency type of air travelers were visualized and then groups were further broken down to analyze the pattern of airline satisfaction among the members of the particular group. The histograms below show the air travel satisfaction level among the grouped passengers.
